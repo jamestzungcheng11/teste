@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B230B9E1-6743-424F-803B-DB56221C4294}|CpfValidatorTests\\CpfValidatorTests.csproj|c:\\users\\james11\\documents\\cpf\\cpfvalidator\\cpfvalidatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B230B9E1-6743-424F-803B-DB56221C4294}|CpfValidatorTests\\CpfValidatorTests.csproj|solutionrelative:cpfvalidatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A6661E-2363-40BA-A171-0534AFAFA1CA}|CpfValidator\\CpfValidator.csproj|c:\\users\\james11\\documents\\cpf\\cpfvalidator\\cpfvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A6661E-2363-40BA-A171-0534AFAFA1CA}|CpfValidator\\CpfValidator.csproj|solutionrelative:cpfvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A6661E-2363-40BA-A171-0534AFAFA1CA}|CpfValidator\\CpfValidator.csproj|c:\\users\\james11\\documents\\cpf\\cpfvalidator\\cpfvalidator\\cpfvalidator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11A6661E-2363-40BA-A171-0534AFAFA1CA}|CpfValidator\\CpfValidator.csproj|solutionrelative:cpfvalidator\\cpfvalidator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B230B9E1-6743-424F-803B-DB56221C4294}|CpfValidatorTests\\CpfValidatorTests.csproj|c:\\users\\james11\\documents\\cpf\\cpfvalidator\\cpfvalidatortests\\cpfvalidatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B230B9E1-6743-424F-803B-DB56221C4294}|CpfValidatorTests\\CpfValidatorTests.csproj|solutionrelative:cpfvalidatortests\\cpfvalidatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CpfValidator",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidator\\CpfValidator.csproj",
+              "RelativeDocumentMoniker": "CpfValidator\\CpfValidator.csproj",
+              "ToolTip": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidator\\CpfValidator.csproj",
+              "RelativeToolTip": "CpfValidator\\CpfValidator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T01:48:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CpfValidatorTests",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidatorTests\\CpfValidatorTests.csproj",
+              "RelativeDocumentMoniker": "CpfValidatorTests\\CpfValidatorTests.csproj",
+              "ToolTip": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidatorTests\\CpfValidatorTests.csproj",
+              "RelativeToolTip": "CpfValidatorTests\\CpfValidatorTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T01:59:14.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CpfValidatorTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidatorTests\\UnitTest1.cs*",
+              "RelativeToolTip": "CpfValidatorTests\\UnitTest1.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:38:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidator\\Program.cs",
+              "RelativeDocumentMoniker": "CpfValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\cpf\\CpfValidator\\CpfValidator\\Program.cs",
+              "RelativeToolTip": "CpfValidator\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:34:22.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

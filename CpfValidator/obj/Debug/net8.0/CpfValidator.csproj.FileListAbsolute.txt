@@ -1,0 +1,14 @@
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.AssemblyInfoInputs.cache
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.AssemblyInfo.cs
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.csproj.CoreCompileInputs.cache
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.exe
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.deps.json
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.runtimeconfig.json
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.dll
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.pdb
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.dll
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\refint\CpfValidator.dll
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.pdb
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.genruntimeconfig.cache
+C:\Users\james11\Documents\cpf\CpfValidator\CpfValidator\obj\Debug\net8.0\ref\CpfValidator.dll
